@@ -1,0 +1,317 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Adalar" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[29.1, 40.85], [29.15, 40.85], [29.15, 40.88], [29.1, 40.88], [29.1, 40.85]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Arnavutköy" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[28.65, 41.15], [28.75, 41.15], [28.75, 41.25], [28.65, 41.25], [28.65, 41.15]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Ataşehir" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[29.1, 40.98], [29.15, 40.98], [29.15, 41.02], [29.1, 41.02], [29.1, 40.98]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Avcılar" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[28.7, 40.98], [28.75, 40.98], [28.75, 41.02], [28.7, 41.02], [28.7, 40.98]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Bağcılar" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[28.82, 41.03], [28.87, 41.03], [28.87, 41.07], [28.82, 41.07], [28.82, 41.03]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Bahçelievler" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[28.84, 41.0], [28.89, 41.0], [28.89, 41.04], [28.84, 41.04], [28.84, 41.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Bakırköy" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[28.86, 40.98], [28.91, 40.98], [28.91, 41.02], [28.86, 41.02], [28.86, 40.98]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Başakşehir" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[28.78, 41.08], [28.83, 41.08], [28.83, 41.12], [28.78, 41.12], [28.78, 41.08]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Bayrampaşa" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[28.9, 41.04], [28.95, 41.04], [28.95, 41.08], [28.9, 41.08], [28.9, 41.04]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Beşiktaş" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[29.0, 41.04], [29.05, 41.04], [29.05, 41.08], [29.0, 41.08], [29.0, 41.04]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Beykoz" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[29.08, 41.12], [29.18, 41.12], [29.18, 41.22], [29.08, 41.22], [29.08, 41.12]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Beylikdüzü" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[28.63, 40.98], [28.68, 40.98], [28.68, 41.02], [28.63, 41.02], [28.63, 40.98]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Beyoğlu" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[28.97, 41.03], [29.02, 41.03], [29.02, 41.07], [28.97, 41.07], [28.97, 41.03]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Büyükçekmece" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[28.55, 41.0], [28.65, 41.0], [28.65, 41.1], [28.55, 41.1], [28.55, 41.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Çatalca" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[28.4, 41.1], [28.5, 41.1], [28.5, 41.2], [28.4, 41.2], [28.4, 41.1]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Çekmeköy" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[29.2, 41.02], [29.25, 41.02], [29.25, 41.06], [29.2, 41.06], [29.2, 41.02]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Esenler" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[28.87, 41.04], [28.92, 41.04], [28.92, 41.08], [28.87, 41.08], [28.87, 41.04]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Esenyurt" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[28.65, 41.02], [28.7, 41.02], [28.7, 41.06], [28.65, 41.06], [28.65, 41.02]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Eyüpsultan" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[28.9, 41.08], [28.95, 41.08], [28.95, 41.12], [28.9, 41.12], [28.9, 41.08]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Fatih" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[28.94, 41.01], [28.99, 41.01], [28.99, 41.05], [28.94, 41.05], [28.94, 41.01]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gaziosmanpaşa" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[28.9, 41.06], [28.95, 41.06], [28.95, 41.1], [28.9, 41.1], [28.9, 41.06]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Güngören" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[28.87, 41.01], [28.92, 41.01], [28.92, 41.05], [28.87, 41.05], [28.87, 41.01]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Kadıköy" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[29.02, 40.98], [29.07, 40.98], [29.07, 41.02], [29.02, 41.02], [29.02, 40.98]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Kağıthane" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[28.97, 41.07], [29.02, 41.07], [29.02, 41.11], [28.97, 41.11], [28.97, 41.07]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Kartal" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[29.18, 40.88], [29.23, 40.88], [29.23, 40.92], [29.18, 40.92], [29.18, 40.88]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Küçükçekmece" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[28.77, 41.0], [28.82, 41.0], [28.82, 41.04], [28.77, 41.04], [28.77, 41.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Maltepe" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[29.13, 40.92], [29.18, 40.92], [29.18, 40.96], [29.13, 40.96], [29.13, 40.92]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Pendik" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[29.2, 40.87], [29.3, 40.87], [29.3, 40.97], [29.2, 40.97], [29.2, 40.87]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Sancaktepe" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[29.22, 40.98], [29.27, 40.98], [29.27, 41.02], [29.22, 41.02], [29.22, 40.98]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Sarıyer" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[29.0, 41.1], [29.1, 41.1], [29.1, 41.2], [29.0, 41.2], [29.0, 41.1]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Silivri" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[28.2, 41.05], [28.3, 41.05], [28.3, 41.15], [28.2, 41.15], [28.2, 41.05]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Sultanbeyli" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[29.25, 40.96], [29.3, 40.96], [29.3, 41.0], [29.25, 41.0], [29.25, 40.96]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Sultangazi" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[28.87, 41.1], [28.92, 41.1], [28.92, 41.14], [28.87, 41.14], [28.87, 41.1]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Şile" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[29.5, 41.15], [29.6, 41.15], [29.6, 41.25], [29.5, 41.25], [29.5, 41.15]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Şişli" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[28.98, 41.05], [29.03, 41.05], [29.03, 41.09], [28.98, 41.09], [28.98, 41.05]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Tuzla" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[29.28, 40.82], [29.38, 40.82], [29.38, 40.92], [29.28, 40.92], [29.28, 40.82]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Ümraniye" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[29.1, 41.0], [29.15, 41.0], [29.15, 41.04], [29.1, 41.04], [29.1, 41.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Üsküdar" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[29.02, 41.02], [29.07, 41.02], [29.07, 41.06], [29.02, 41.06], [29.02, 41.02]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Zeytinburnu" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[28.9, 40.99], [28.95, 40.99], [28.95, 41.03], [28.9, 41.03], [28.9, 40.99]]]
+      }
+    }
+  ]
+}
